@@ -1,0 +1,14 @@
+* Describing the International Standard Classification (ISCO) in DDI 3.1
+** Overview
+This project uses the Data Documentation Initiative's DDI 3.1 XML standard to document the ISCO occupation codes.
+*** ISCO
+#BEGIN_QUOTE
+ISCO-88(COM) is the European Union variant of the International Standard Classification of Occupations (ISCO-88; see this entry).
+#END_QUOTE
+*** DDI
+DDI is a metadata specification for the social and behavioral sciences.
+** Data Source Information
+- http://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=DSP_GEN_DESC_VIEW_NOHDR&StrNom=ISCO_88_CO&StrLanguageCode=EN
+- http://ec.europa.eu/eurostat/ramon/download/classifications/xls/isco_88_com_de_en_fr.zip
+** Thanks
+Joachim Wackerow originally [[http://www.ddialliance.org/node/394][marked up ISCO in DDI 3.0]]. His presentation about the project can be found [[http://www.edrs.mcgill.ca/IASSIST2007/presentations/E4(2).ppt][here]].
