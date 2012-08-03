@@ -13,5 +13,7 @@ Again from [[http://en.wikipedia.org/wiki/International_Standard_Classification_
 #+BEGIN_QUOTE
 The Data Documentation Initiative (DDI) is an international project to create a standard for information describing statistical and social science data. Begun in 1995, the effort brings together data professionals from around the world to develop the standard. The DDI specification, written in XML, provides a format for content, exchange, and preservation of information.
 #+END_QUOTE
+** Output
+Download the resulting XML: [[https://github.com/downloads/Colectica/isco-ddi/isco.ddi3.xml][isco.ddi3.xml]]
 ** Thanks
 Joachim Wackerow originally [[http://www.ddialliance.org/node/394][marked up ISCO in DDI 3.0]]. His presentation about the project can be found [[http://www.edrs.mcgill.ca/IASSIST2007/presentations/E4(2).ppt][here]].
