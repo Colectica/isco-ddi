@@ -1,4 +1,4 @@
-* Describing the International Standard Classification (ISCO) in DDI 3.1
+* Describing the International Standard Classification of Occupations (ISCO) in DDI 3.1
 ** Overview
 This project uses the Data Documentation Initiative's DDI 3.1 XML standard to document the ISCO occupation codes.
 *** ISCO
